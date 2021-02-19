@@ -1,1 +1,3 @@
-//hola hola
+function sum (a){
+	return a++;
+}
